@@ -9,6 +9,11 @@
 			"id":1,
 			"question": "Question:Does Unity support GIF images\nas a texture?",
 			"answer": "1"
+		},
+		{
+			"id":2,
+			"question":"唐吉訶德的作者是西班牙人嗎？",
+			"answer": "2"
 		}
 	]
 }
