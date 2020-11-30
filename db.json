@@ -4,19 +4,31 @@
 			"id":0,
 			"question": "Question:Does Transform.localposition\nchange with the parent transform?\nA:No\tB:Yes",
 			"answer": "1",
-			"taku": "2"
+			"taku": "2",
+			"ansA": "No",
+			"ansB": "Yes",
+			"ansC": "",
+			"ansD": ""
 		},
 		{
 			"id":1,
 			"question": "Question:Does Unity support GIF images\nas a texture?\nA:No\tB:Yes",
 			"answer": "1",
-			"taku": "2"
+			"taku": "2",
+			"ansA": "No",
+			"ansB": "Yes",
+			"ansC": "",
+			"ansD": ""
 		},
 		{
 			"id":2,
 			"question":"唐吉訶德的作者是哪國人？\nA:英國人\tB:西班牙人",
 			"answer": "2",
-			"taku": "2"
+			"taku": "2",
+			"ansA": "英國人",
+			"ansB": "西班牙人",
+			"ansC": "",
+			"ansD": ""
 		}
 	]
 }
