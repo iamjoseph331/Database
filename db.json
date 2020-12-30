@@ -1,12 +1,12 @@
 {
 	"posts":[
-		{
+	    {
 	        "id": 0,
 	        "answer": 1,
 	        "taku": 2,
 	        "ansa": "玉山",
 	        "ansb": "聖母峰",
-	        "question": "台灣最高的山是？\nA:玉山\tB:聖母峰"
+	        "question": "台灣最高的山是？\\nA:玉山\\tB:聖母峰"
 	    },
 	    {
 	        "id": 1,
@@ -14,7 +14,7 @@
 	        "taku": 2,
 	        "ansa": "No",
 	        "ansb": "Yes",
-	        "question": "Unity支援GIF素材嗎？\nA:No\tB:Yes"
+	        "question": "Unity支援GIF素材嗎？\\nA:No\\tB:Yes"
 	    },
 	    {
 	        "id": 2,
@@ -23,7 +23,7 @@
 	        "ansa": "翠鳥",
 	        "ansb": "蜂鳥",
 	        "ansc": "九色鳥",
-	        "question": "哪種鳥是唯一可以向後飛行的鳥類？\nA:翠鳥\tB:蜂鳥\tC:九色鳥"
+	        "question": "哪種鳥是唯一可以向後飛行的鳥類？\\nA:翠鳥\\tB:蜂鳥\\tC:九色鳥"
 	    },
 	    {
 	        "id": 3,
@@ -33,7 +33,7 @@
 	        "ansb": "感冒",
 	        "ansc": "肌炎",
 	        "ansd": "頭痛",
-	        "question": "抗組織胺藥是用來緩解什麼的？\nA:過敏\tB:感冒\tC:肌炎\tD:頭痛"
+	        "question": "抗組織胺藥是用來緩解什麼的？\\nA:過敏\\tB:感冒\\tC:肌炎\\tD:頭痛"
 	    },
 	    {
 	        "id": 4,
@@ -41,7 +41,7 @@
 	        "taku": 2,
 	        "ansa": "水果",
 	        "ansb": "馬鈴薯",
-	        "question": "伏特加是用什麼做的？\nA:水果\tB:馬鈴薯"
+	        "question": "伏特加是用什麼做的？\\nA:水果\\tB:馬鈴薯"
 	    },
 	    {
 	        "id": 5,
@@ -50,7 +50,7 @@
 	        "ansa": "布拉姆斯",
 	        "ansb": "巴哈",
 	        "ansc": "貝多芬",
-	        "question": "盡管後來幾乎完全失聰，哪位作曲家仍然持續創作音樂？\nA:布拉姆斯\tB:巴哈\tC:貝多芬"
+	        "question": "盡管後來幾乎完全失聰，哪位作曲家仍然持續創作音樂？\\nA:布拉姆斯\\tB:巴哈\\tC:貝多芬"
 	    },
 	    {
 	        "id": 6,
@@ -58,7 +58,7 @@
 	        "taku": 2,
 	        "ansa": "英國人",
 	        "ansb": "西班牙人",
-	        "question": "唐吉訶德的作者是哪國人？\nA:英國人\tB:西班牙人"
+	        "question": "唐吉訶德的作者是哪國人？\\nA:英國人\\tB:西班牙人"
 	    },
 	    {
 	        "id": 7,
@@ -66,7 +66,7 @@
 	        "taku": 2,
 	        "ansa": "兩個月",
 	        "ansb": "六個月",
-	        "question": "狗的妊娠期大約多久？\nA:兩個月\tB:六個月"
+	        "question": "狗的妊娠期大約多久？\\nA:兩個月\\tB:六個月"
 	    },
 	    {
 	        "id": 8,
@@ -74,70 +74,181 @@
 	        "taku": 2,
 	        "ansa": "紅色",
 	        "ansb": "白色",
-	        "question": "靜香的內褲是什麼顏色？\nA:紅色\tB:白色"
+	        "question": "靜香的內褲是什麼顏色？\\nA:紅色\\tB:白色"
 	    },
 	    {
-	        "id": 9
+	        "id": 9,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "3種",
+	        "ansb": "300種",
+	        "question": "有多少種可可豆用於可可生產？\\nA:3種\\tB:300種"
 	    },
 	    {
-	        "id": 10
+	        "id": 10,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "蘇必略湖",
+	        "ansb": "貝加爾湖",
+	        "question": "世界上最深的湖泊是哪個？\\nA:蘇必略湖\\tB:貝加爾湖"
 	    },
 	    {
-	        "id": 11
+	        "id": 11,
+	        "answer": 4,
+	        "taku": 4,
+	        "ansa": "莫斯科",
+	        "ansb": "柏林",
+	        "ansc": "巴黎",
+	        "ansd": "羅馬",
+	        "question": "根據俗諺，條條大路通哪裡？\\nA:莫斯科\\tB:柏林\\tC:巴黎\\tD:羅馬"
 	    },
 	    {
-	        "id": 12
+	        "id": 12,
+	        "answer": 1,
+	        "taku": 3,
+	        "ansa": "Love",
+	        "ansb": "Zero",
+	        "ansc": "Ball",
+	        "question": "在網球一局中， 稱\"零分\"為何？\\nA:Love\\tB:Zero\\tC:Ball"
 	    },
 	    {
-	        "id": 13
+	        "id": 13,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "森林",
+	        "ansb": "草原",
+	        "question": "獅子喜歡住在哪裡？\\nA:森林\\tB:草原"
 	    },
 	    {
-	        "id": 14
+	        "id": 14,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "4條",
+	        "ansb": "6條",
+	        "question": "標準的小提琴上有多少根弦？\\nA:4條\\tB:6條"
 	    },
 	    {
-	        "id": 15
+	        "id": 15,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "日本",
+	        "ansb": "冰島",
+	        "question": "世界上最大的地熱溫泉位於哪個國家？\\nA:日本\\tB:冰島"
 	    },
 	    {
-	        "id": 16
+	        "id": 16,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "義大利",
+	        "ansb": "墨西哥",
+	        "question": "凱薩沙拉是在哪裡的餐廳被發明的？\\nA:義大利\\tB:墨西哥"
 	    },
 	    {
-	        "id": 17
+	        "id": 17,
+	        "answer": 3,
+	        "taku": 3,
+	        "ansa": "馴鹿",
+	        "ansb": "麋鹿",
+	        "ansc": "雪橇",
+	        "question": "聖誕老人坐在什麼上面送禮物？\\nA:馴鹿\\tB:麋鹿\\tC:雪橇"
 	    },
 	    {
-	        "id": 18
+	        "id": 18,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "小丑魚",
+	        "ansb": "沙丁魚",
+	        "question": "在電影\"海底總動員中\"，主角尼莫是哪種魚？\\nA:小丑魚\\tB:沙丁魚"
 	    },
 	    {
-	        "id": 19
+	        "id": 19,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "心臟",
+	        "ansb": "消化道",
+	        "question": "幽門位於人體的哪個部位？\\nA:心臟\\tB:消化道"
 	    },
 	    {
-	        "id": 20
+	        "id": 20,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "是",
+	        "ansb": "不是",
+	        "question": "英國現在是歐盟的會員國嗎？\\nA:是\\tB:不是"
 	    },
 	    {
-	        "id": 21
+	        "id": 21,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "太空簡史",
+	        "ansb": "時間簡史",
+	        "question": "霍金於1988年出版的暢銷科學類書籍叫什麼？\\nA:太空簡史\\tB:時間簡史"
 	    },
 	    {
-	        "id": 22
+	        "id": 22,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "梭子",
+	        "ansb": "引子",
+	        "question": "用織布機織布時，引導紗的機件是什麼？\\nA:梭子\\tB:引子"
 	    },
 	    {
-	        "id": 23
+	        "id": 23,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "非常便宜",
+	        "ansb": "非常安全",
+	        "question": "日文的\"激胺\"指的是中文的什麼意思？\\nA:非常便宜\\tB:非常安全"
 	    },
 	    {
-	        "id": 24
+	        "id": 24,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "天狼星",
+	        "ansb": "老人星",
+	        "question": "夜空中最亮的恆星是？\\nA:天狼星\\tB:老人星"
 	    },
 	    {
-	        "id": 25
+	        "id": 25,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "S",
+	        "ansb": "C",
+	        "question": "Windows內建的螢幕截圖快捷鍵是\"Windows鍵 + Shift + ？\"\\nA:S\\tB:C"
 	    },
 	    {
-	        "id": 26
+	        "id": 26,
+	        "answer": 2,
+	        "taku": 2,
+	        "ansa": "黑方",
+	        "ansb": "白方",
+	        "question": "西洋棋中先動子的是黑方還是白方？\\nA:黑方\\tB:白方"
 	    },
 	    {
-	        "id": 27
+	        "id": 27,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "萵苣",
+	        "ansb": "白菜",
+	        "question": "一般而言生菜沙拉主要是吃什麼菜？\\nA:萵苣\\tB:白菜"
 	    },
 	    {
-	        "id": 28
+	        "id": 28,
+	        "answer": 1,
+	        "taku": 2,
+	        "ansa": "行憲紀念日",
+	        "ansb": "開國紀念日",
+	        "question": "在台灣，一月一日因為是什麼的原因而能放假？\\nA:行憲紀念日\\tB:開國紀念日"
 	    },
 	    {
-	        "id": 29
+	        "id": 29,
+	        "answer": 1,
+	        "taku": 4,
+	        "ansa": "地中海",
+	        "ansb": "裡海",
+	        "ansc": "死海",
+	        "ansd": "青海",
+	        "question": "下列哪個是真正的海？\\nA:地中海\\tB:裡海\\tC:死海\\tD:青海"
 	    }
-	]
+]
 }
