@@ -161,7 +161,7 @@
 	        "taku": 2,
 	        "ansa": "非常便宜",
 	        "ansb": "非常安全",
-	        "question": "日文的\"激胺\"指的是中文的什麼意思？\nA:非常便宜\tB:非常安全"
+	        "question": "日文的\"激安\"指的是中文的什麼意思？\nA:非常便宜\tB:非常安全"
 	    },
 	    {
 	        "id": 20,
@@ -219,7 +219,7 @@
 	        "ansa": "Love",
 	        "ansb": "Zero",
 	        "ansc": "Ball",
-	        "question": "在網球一局中， 稱\"零分\"為何？\nA:Love\tB:Zero\tC:Ball"
+	        "question": "在網球一局中，稱\"零分\"為何？\nA:Love\tB:Zero \tC:Ball"
 	    },
 	    {
 	        "id": 27,
